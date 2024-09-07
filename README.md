@@ -4,7 +4,7 @@
   
   <h2>Hi there, I'm Vijay Kumar!</h2>
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=TheOfficialVKr&color=brightgreen&style=flat)
+  ![Profile Views](https://komarev.com/ghpvc/?username=theofficialvkr&color=brightgreen&style=flat)
   
   <img src="https://github.com/TheOfficialVKr/TheOfficialVKr/raw/main/wave.gif" alt="Hello Wave" width="200px">
   

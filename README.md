@@ -56,7 +56,7 @@
   <br><br>
   
   <a href="https://github.com/TheOfficialVKr/directmessage">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheOfficialVKr&repo=directmessage&theme=tokyonight" alt="Another Awesome Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=theofficialvkr&repo=directmessage&theme=tokyonight" alt="Direct Message">
   </a>
 
 </div>

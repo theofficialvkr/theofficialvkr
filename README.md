@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=36BCF7&center=true&vCenter=true&width=435&lines=Welcome+to+Vijay+Kumar's+GitHub+Profile!;Web+Developer+%26+Tech+Enthusiast;Building+the+Future+of+Web+Applications" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=36BCF7&center=true&vCenter=true&width=535&lines=Welcome+to+Vijay+Kumar's+GitHub+Profile!;Web+Developer+%26+Tech+Enthusiast;Building+the+Future+of+Web+Applications" alt="Typing SVG">
   
   <h2>Hi there, I'm Vijay Kumar!</h2>
 

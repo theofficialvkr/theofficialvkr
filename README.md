@@ -49,12 +49,16 @@
 
   <h3>Projects I'm Proud Of</h3>
   
-  <a href="https://github.com/TheOfficialVKr/VKrDownloader">
+  <a href="https://theofficialvkr.github.io/VKr-Thumbnail-Downloader/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheOfficialVKr&repo=VKr-Thumbnail-Downloader&theme=tokyonight" alt="VKr-Thumbnail-Downloader">
+  </a>
+  
+  <br><br>
+    <a href="https://github.com/TheOfficialVKr/VKrDownloader">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheOfficialVKr&repo=VKrDownloader&theme=tokyonight" alt="VKrDownloader">
   </a>
   
   <br><br>
-  
   <a href="https://github.com/TheOfficialVKr/directmessage">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=theofficialvkr&repo=directmessage&theme=tokyonight" alt="Direct Message">
   </a>

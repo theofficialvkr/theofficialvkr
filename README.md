@@ -63,6 +63,11 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=theofficialvkr&repo=directmessage&theme=tokyonight" alt="Direct Message">
   </a>
 
+<br><br>
+  <a href="https://github.com/TheOfficialVKr/VKr-TV-Player">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=theofficialvkr&repo=VKr-TV-Player&theme=tokyonight" alt="Direct Message">
+  </a>
+  
 </div>
 
 ---
